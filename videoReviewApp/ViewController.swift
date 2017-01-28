@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+}
 
+class welcomeScreen: UIScreen
+{
+    //1st page
+    var brightness: CGFloat = 0.0
 }
 
